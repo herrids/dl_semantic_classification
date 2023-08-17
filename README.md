@@ -1,6 +1,6 @@
-# DL_Project_Yelp
+# Deep Learning Semantic Classification
 
-A project by Moritz Wilksch, Sofya Marchenko and Ferdinand Hoske for the Deep Learning course at HPI.
+A project to showcase how to use Deep Learning for semantic classification using the Yelp Dataset.
 
 ## Setup
 
